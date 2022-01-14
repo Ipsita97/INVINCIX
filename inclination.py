@@ -1,3 +1,5 @@
+#program to find the angle of inclination
+
 import math
 
 x1=float(input("X1 - "))
